@@ -4,12 +4,9 @@ Nurses are the first line of defense in terms of general population interaction 
 In this project I go over the results of my analysis, reviewing nursing jobs salary and overtime paid by City and County of San Francisco, 2013 - 2018, in order to determine if there is an increase in mean salary and overtime earned. Is there a significant increase in overtime independent of salaries? 
 If yes, this would mean there is a growing need for nursing staff and it could have greater impact on future hiring, budget planning and quality of service provided in this demanding field.
 
-# Set Up
-
 ## Data Description:
 
 Employee Compensation
-
 
 Metadata Updated: June 4, 2019 
 
