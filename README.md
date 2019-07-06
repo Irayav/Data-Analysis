@@ -12,7 +12,7 @@ Metadata Updated: June 4, 2019
 
 ---
 
-The San Francisco Controller's Office maintains a database of the salary and benefits paid to City employees since fiscal year 2013. This data is summarized and presented on the Employee Compensation report hosted at http://openbook.sfgov.org, and is also available in this dataset in CSV format. New data is added on a bi-annual basis when available for each fiscal and calendar year. 
+The San Francisco Controller's Office maintains a database of the salary and benefits paid to City employees since fiscal year 2013. This data is summarized and presented on the Employee Compensation report hosted at [link](http://openbook.sfgov.org), and is also available in this dataset in CSV format. New data is added on a bi-annual basis when available for each fiscal and calendar year. 
 
 
 ---
